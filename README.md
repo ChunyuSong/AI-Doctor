@@ -3,18 +3,6 @@ Doctor AI
 
 Doctor AI is a automatic diagnosis machine that predicts medical codes that occur in the next visit, while also predicting the time duration until the next visit.
 
-#### Relevant Publications
-
-Doctor AI implements an algorithm introduced in the following:
-
-	Doctor AI: Predicting Clinical Events via Recurrent Neural Networks  
-	Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun  
-	arXiv preprint arXiv:1511.05942
-	
-	Medical Concept Representation Learning from Electronic Health Records and its Application on Heart Failure Prediction  
-	Edward Choi, Andy Schuetz, Walter F. Stewart, Jimeng Sun  
-	arXiv preprint arXiv:1602.03686
-
 #### Running Doctor AI
 
 **STEP 1: Installation**  
